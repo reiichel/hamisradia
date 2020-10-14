@@ -1,8 +1,8 @@
-.step2-active-tab {
-    display: block;
-}
 .step2-tab {
     display: none;
+}
+.step2-active-tab {
+    display: block;
 }
 .step2-tab-h {
     display: inline-block;
