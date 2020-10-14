@@ -29,6 +29,9 @@
 		display: inline-block;
 		border-right: 1px solid #ececec;
 	}
+	.checkout-container .order-summary {
+		max-width: 100%;
+	}
 }
 tr.cart-row {
     height: 130px;
@@ -36,8 +39,4 @@ tr.cart-row {
     min-height: 130px;
     overflow: hidden;
     border-bottom: 1px solid #ececec;
-}
-@media (min-width: 768px)
-.checkout-container .order-summary {
-    max-width: 100%;
 }
